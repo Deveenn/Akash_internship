@@ -1,0 +1,18 @@
+➤ Step - 1: Download Python
+   To download and install Python visit the official website of Python
+   http://www.python.org/downloads/
+
+➤ Step - 2: Click on the Install Now
+   Click on the Add Path check box, it will set the Python path automatically.
+
+➤ Step - 3 Installation in Process
+
+➤ Step - 4 Setup done successful. Now click on "Close"
+
+➤ Step - 5 Verify Python is installed on Windows
+ Open the command prompt.
+ Type ‘python’ and press enter.
+ The version of the python which you have installed will be displayed if the python is
+ successfully installed on your windows.
+
+➤Step - 6 Download Python Extension
